@@ -26,15 +26,7 @@ To use your own data with this project, follow these steps:
      - Place your validation/query images in the "validation/x" directory.
      - Place the corresponding ground truth images in the "validation/y" directory.
 
-4. **Commit Your Changes**: Once you've organized your data, commit your changes to the repository.
-
-    ```bash
-    git add .
-    git commit -m "Add my data files"
-    git push
-    ```
-
-5. **Use the Project**: You can now use the project with your own data by following the project's instructions.
+4. **Use the Project**: You can now use the project with your own data by following the project's instructions.
 
 ## Project Dependencies
 
